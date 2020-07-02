@@ -1,0 +1,10 @@
+a)
+
+1.Präprozessor : die Quellen reparieren zunächst mischt der Compiler alle header-Datei rein 
+2.Kompilierung : in Assembler übersetzen
+3.Objektcode generieren : in Binärcode umwandeln um CPU zu verstehen
+4.Linken , Die Teile verbinden : alle Teile des Objektcodes zusammensetzen , um ausführbare Programm zu bilden
+
+b)
+
+an Präprozessor / Erste Ebene.

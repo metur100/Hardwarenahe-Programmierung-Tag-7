@@ -1,0 +1,2 @@
+zippedateien:
+	zip datei.zip *.c *.h

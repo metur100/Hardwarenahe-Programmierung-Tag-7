@@ -1,0 +1,3 @@
+float x = a/b  hat x den Wert 1.00000 weil a und b integer sind. Damit bei a) funktioniert muss man a/b in float umgewandelt werden. Das heißt: float x = (float) a/b
+
+Wenn wir Fall habe, wo einen Wert davon float haben (b und c), dann bekommen wir die Lösung richtig. float ist der grundlegende Datentyp für die Speicherung von Gleitkommawerten.
